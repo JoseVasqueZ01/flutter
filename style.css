@@ -1,0 +1,18 @@
+body{
+    background: rgb(171,168,222);
+background: linear-gradient(90deg, rgba(171,168,222,1) 0%, rgba(171,171,224,0.6587009803921569) 5%, rgba(0,212,255,1) 25%);
+}
+
+h1{
+    background-color: rgb(231, 165, 117);
+    color: white;
+}
+
+h2{
+    background-color: rgb(231, 165, 117);;
+    color: white;
+}
+
+p{
+    color: rgb(19, 34, 4);
+}
